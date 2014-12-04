@@ -1,0 +1,4 @@
+Android_APP
+===========
+
+XJTLU SUMMER RESEARCH PROJECT
